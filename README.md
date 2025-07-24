@@ -30,8 +30,12 @@ The script will load both ONNX models, use both of them to check if the image co
 
 Firstly, I took 10.5k images of grass from various datasets on the internet (more info in [resources](#resources)). Then i added an image of a hand to 80% of those images, so that the model also accepts images with hands covering some part of it. I also downloaded 10k of indoor images from the Places365 dataset.<br>
 Secondly, using the [`train.py`](https://github.com/dusty-nv/pytorch-classification/blob/3e9cf8c4003311009539a6c101d156c919fe2250/train.py) script from the [jetson-inference GitHub repo](https://github.com/dusty-nv/jetson-inference), I fine‑tuned an ImageNet‑pretrained ResNet‑18 on this dataset.<br>
-<img>
+
 I also took the original Pose ResNet-18 Hand ONNX model from the jetson-inference repository to detect hands on images.
+
+## Results
+
+To decide how good is the trained model and the entire script itself i've ran some tests on images of just grass, object taht are not grass and iamges of a hand touching grass.
 
 ## Resources
 
