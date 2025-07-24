@@ -7,8 +7,8 @@ This is an AI that can determine whether or not are you touching grass. My inspi
 Clone the repository:
 
 ```bash
-git clone https://github.com/marks0kolov/chihuahua_vs_muffin.git
-cd chihuahua_vs_muffin
+git clone https://github.com/marks0kolov/touch_grass.git
+cd touch_grass
 ```
 Install the required packages
 
