@@ -41,10 +41,10 @@ After that the timer setting page will appear again.<br>
 To use the interface, you need to run a local server from the root of the project with
 
 ```bash
-python3 -m http.server 1008 --directory gui/
+python3 -m http.server 1008
 ```
 
-and then navigate to http://localhost:1008
+and then navigate to http://localhost:1008/gui
 
 ## Training
 
