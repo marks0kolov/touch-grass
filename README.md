@@ -71,7 +71,7 @@ I also took the original Pose ResNet-18 Hand ONNX model from the jetson-inferenc
     - Usharengaraju. n.d. *"GrassClover Dataset."* Kaggle. Accessed July 24, 2025. https://www.kaggle.com/datasets/usharengaraju/grassclover-dataset
     - Timofeymoiseev. n.d. *"Grass Detection Dataset."* Kaggle. Accessed July 24, 2025. https://www.kaggle.com/datasets/timofeymoiseev/grass
     - Jonasdahlqvist. n.d. *"Grass‑NoGrass Dataset."* Kaggle. Accessed July 24, 2025. https://www.kaggle.com/datasets/jonasdahlqvist/grass-nograss-dataset
-    - CSAILVision. 2017. *"Places365‑CNNs for Scene Classification"*. GitHub. https://github.com/CSAILVision/places365.  Accessed July 24, 2025.
+    - CSAILVision. 2017. *"Places365‑CNNs for Scene Classification"*. GitHub. https://github.com/CSAILVision/places365. Accessed July 24, 2025.
 
 - Models
     - Image ResNet-18
@@ -79,4 +79,4 @@ I also took the original Pose ResNet-18 Hand ONNX model from the jetson-inferenc
 
 - NVIDIA Jetson Orin Nano
 
-- [jetson-inference GitHub repo](https://github.com/dusty-nv/jetson-inference)
+- Dusty-nv. Updated October, 2024. *"jetson-inference"*, GitHub. https://github.com/dusty-nv/jetson-inference.
