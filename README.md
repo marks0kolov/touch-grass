@@ -14,7 +14,7 @@ cd touch_grass
 Install the required packages
 
 ```bash
-pip3 -r install scripts/requirements.txt
+pip3 install -r scripts/requirements.txt
 ```
 
 Run inference on an image with the provided python script:
