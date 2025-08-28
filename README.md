@@ -1,5 +1,6 @@
 <img src="./readme_images/touching_grass.jpg" alt="a close-up of a hand touching grass">
-
+<i>🎉 Approved by NVIDIA!</i>
+<br/><br/>
 This is an AI that can determine whether or not are you touching grass. My inspiration when creating this project was a popular [meme](https://knowyourmeme.com/memes/touch-grass) from the internet, where people jokingly tell each other to "go outside and touch grass" when they’re spending too much time on the computer.
 
 ## Inference
